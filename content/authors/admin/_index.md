@@ -27,13 +27,13 @@ education:
       year: 2009
     - course: MSc in Philosophy of the Social Sciences
       institution: London School of Economics and Political Science
-      year: 1999
+      year: 2005
     - course: MA in Political Science
       institution: University of Tokyo
       year: 1998
     - course: BL (Public Law)
       institution: University of Tokyo
-      year: 1982
+      year: 1998
 email: ""
 superuser: true
 highlight_name: true
