@@ -31,12 +31,15 @@ education:
     - course: PhD in Philosophy
       institution: University of Exeter
       year: 2006
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Philosophy of the Social Sciences
+      institution: London School of Economics and Political Science
+      year: 1999
+    - course: MA in Political Science
+      institution: University of Tokyo
+      year: 1998
+    - course: BL (Public Law)
+      institution: University of Tokyo
+      year: 1982
 email: ""
 superuser: true
 highlight_name: true
