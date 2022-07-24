@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Philosophy
       institution: University of Exeter
-      year: 2006
+      year: 2009
     - course: MSc in Philosophy of the Social Sciences
       institution: London School of Economics and Political Science
       year: 1999
