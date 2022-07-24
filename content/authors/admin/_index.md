@@ -30,7 +30,7 @@ education:
       year: 2005
     - course: MA in Political Science
       institution: University of Tokyo
-      year: 1998
+      year: 2003
     - course: BL (Public Law)
       institution: University of Tokyo
       year: 2001
