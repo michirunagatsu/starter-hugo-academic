@@ -5,8 +5,8 @@ bio: My research interests include foundations of human sociality, methodology
   of interdisciplinary research, sustainability
 interests:
   - Philosophy of Economics
-  - Human cooperation
-  - Sustainability
+  - Philosophy of Emotion
+  - Philosophy of Sustainability
 social:
   - icon: envelope
     icon_pack: fas
