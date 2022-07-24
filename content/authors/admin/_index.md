@@ -33,7 +33,7 @@ education:
       year: 1998
     - course: BL (Public Law)
       institution: University of Tokyo
-      year: 1998
+      year: 2001
 email: ""
 superuser: true
 highlight_name: true
