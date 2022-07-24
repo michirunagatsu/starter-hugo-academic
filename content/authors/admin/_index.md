@@ -1,8 +1,8 @@
 ---
 title: Michiru Nagatsu
 role: Associate Professor in Practical Philosophy
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include foundations of human sociality, methodology
+  of interdisciplinary research, sustainability
 interests:
   - Artificial Intelligence
   - Computational Linguistics
