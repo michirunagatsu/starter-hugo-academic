@@ -1,7 +1,7 @@
 ---
 title: Michiru Nagatsu
 role: Associate Professor in Practical Philosophy
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: My research interests include foundations of human sociality, methodology
   of interdisciplinary research, sustainability
 interests:
